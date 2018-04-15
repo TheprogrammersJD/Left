@@ -1,0 +1,22 @@
+
+{
+  "name": "Multiplayer RPG",
+  "description": "my first socket.io app",
+  "website": "https://github.com/TheprogrammersJD/Multiplayer",
+  "repository": "https://github.com/TheprogrammersJD/Multiplayer",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
